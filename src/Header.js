@@ -6,8 +6,13 @@ const Header = () => {
   return (
     <div className="header">
       <img src={Logo} alt="Upgrade your internet" height={70} width={70} />
-      <button type="submit">Log Off</button>
-      <h1>Hello World</h1>
+      <h1>
+        <span className="raza">RAZA </span>
+        <span className="ent"> ENTERPRISES</span>
+      </h1>
+      <button type="submit" className="log">
+        Log Off
+      </button>
     </div>
   );
 };

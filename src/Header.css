@@ -34,4 +34,5 @@ body {
 .log:hover {
   background-color: navy;
   color: #81b919;
+  font-weight: 600;
 }

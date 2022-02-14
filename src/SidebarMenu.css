@@ -1,0 +1,14 @@
+.sidebarmenu {
+  width: 20%;
+  border-right: 1px solid navy;
+  border-bottom: 1px solid navy;
+  height: 70%;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.sidebarmenu a:hover {
+  background-color: navy;
+  color: #81b919;
+  font-weight: 600;
+}
